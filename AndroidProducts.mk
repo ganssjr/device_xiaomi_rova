@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/krypton_rova.mk
+    $(LOCAL_DIR)/blaze_rova.mk
 
 COMMON_LUNCH_CHOICES := \
-    krypton_rova-user \
-    krypton_rova-userdebug \
-    krypton_rova-eng
+    blaze_rova-user \
+    blaze_rova-userdebug \
+    blaze_rova-eng
